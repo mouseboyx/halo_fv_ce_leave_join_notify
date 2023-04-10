@@ -7,11 +7,11 @@ If you want either join sounds or leave sounds but not both, then copy one of th
 <br>
 # COMMANDS:<br>
 (player_join_sound.lua)<br>
->player_join_sound always <-- DEFAULT SETTING<br>
+**player_join_sound always** <-- DEFAULT SETTING<br>
 	Tells the script to always play the notification sound when a player joins, and saves this as the default setting<br>
->player_join_sound empty<br>
+**player_join_sound empty**<br>
 	Tells the script to only play the notification sound if you are the only player (1) in the server, and saves this as the default setting<br>
->player_join_sound<br>
+**player_join_sound**<br>
 	Lets you know the current configuration<br>
 <br>
 # WHAT THIS PACKAGE COMES WITH:<br>
